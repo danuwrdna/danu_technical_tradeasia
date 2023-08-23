@@ -4,7 +4,7 @@
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'images/Detailprodukmodel.dart';
+import 'model/Detailprodukmodel.dart';
 import 'dart:convert';
 
 void main() {
